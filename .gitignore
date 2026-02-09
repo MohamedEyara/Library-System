@@ -1,0 +1,10 @@
+
+.vs/
+x64/
+*.exe
+*.obj
+*.user
+*.filters
+*.suo
+*.VC.db
+*.VC.opendb
