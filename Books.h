@@ -146,9 +146,9 @@ public:
                 b.display();
 
                 if (b.getStatus())
-                    cout << "Status: ❌ Not Available (Borrowed)\n";
+                    cout << "Status:  Not Available (Borrowed)\n";
                 else
-                    cout << "Status: ✔ Available\n";
+                    cout << "Status:  Available\n";
                 return;
             }
         }
